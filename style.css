@@ -1,1 +1,9 @@
 /* Start coding here */
+button:disabled{
+    background-color: lightgrey;
+}
+
+button:hover{
+    border-color: khaki;
+    color: pink;
+}
